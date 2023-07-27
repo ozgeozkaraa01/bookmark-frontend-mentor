@@ -4,8 +4,8 @@ import HeroSection from "../components/HeroSection";
 import Feature from "../components/Feature";
 import Download from "../components/Download";
 import FAQs from "../components/FAQs";
-import Footer from "../components/Footer";
 import CTA from "../components/CTA";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
