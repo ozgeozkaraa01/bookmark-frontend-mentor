@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import HeroSection from "../components/HeroSection";
 import Feature from "../components/Feature";
 import Download from "../components/Download";
+import FAQs from "../components/FAQs";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <HeroSection />
       <Feature />
       <Download />
+      <FAQs />
     </div>
   );
 }
