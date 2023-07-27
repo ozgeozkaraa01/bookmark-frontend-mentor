@@ -2,6 +2,7 @@ import Head from "next/head";
 import Header from "../components/Header";
 import HeroSection from "../components/HeroSection";
 import Feature from "../components/Feature";
+import Download from "../components/Download";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Header />
       <HeroSection />
       <Feature />
+      <Download />
     </div>
   );
 }
