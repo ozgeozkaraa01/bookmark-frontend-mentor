@@ -11,7 +11,10 @@ const Footer = () => {
       >
         <div className="max-w-7xl mx-auto flex items-center justify-center gap-6 flex-col text-center md:flex-row md:justify-between">
           <div className="md:flex md:items-center md:gap-6 lg:gap-10">
-            <img src="/assets/logo-bookmark.svg" alt="logo" />
+            <img
+              src="https://bookmark-fem-chalange.netlify.app/images/logo-bookmark-footer.svg"
+              alt="logo"
+            />
 
             <ul className="mt-6 md:mt-0 md:flex md:gap-6 lg:gap-10">
               <li>

@@ -5,6 +5,7 @@ import Feature from "../components/Feature";
 import Download from "../components/Download";
 import FAQs from "../components/FAQs";
 import Footer from "../components/Footer";
+import CTA from "../components/CTA";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Feature />
       <Download />
       <FAQs />
+      <CTA />
       <Footer />
     </div>
   );
