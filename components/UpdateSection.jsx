@@ -1,6 +1,6 @@
 import React from "react";
 
-const CTA = () => {
+const UpdateSection = () => {
   return (
     <>
       <section className="bg-[#5368df] px-8 py-20">
@@ -9,7 +9,7 @@ const CTA = () => {
             35,000+ already joined
           </h3>
           <h2 className="text-white text-3xl mb-8 lg:text-4xl text-center font-medium lg:w-96 lg:mx-auto">
-            Stay up to date with what we're doing
+            Stay up to date with what we are doing
           </h2>
 
           <form className="flex flex-col gap-4 md:flex-row md:items-center md:justify-center md:max-w-xl md:mx-auto">
@@ -34,4 +34,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default UpdateSection;

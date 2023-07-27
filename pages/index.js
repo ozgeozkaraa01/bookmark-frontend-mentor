@@ -4,7 +4,7 @@ import HeroSection from "../components/HeroSection";
 import Feature from "../components/Feature";
 import Download from "../components/Download";
 import FAQs from "../components/FAQs";
-import CTA from "../components/CTA";
+import UpdateSection from "../components/UpdateSection";
 import Footer from "../components/Footer";
 
 export default function Home() {
@@ -20,7 +20,7 @@ export default function Home() {
       <Feature />
       <Download />
       <FAQs />
-      <CTA />
+      <UpdateSection />
       <Footer />
     </div>
   );
